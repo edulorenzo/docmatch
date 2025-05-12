@@ -1,0 +1,14 @@
+We are seeking a highly motivated Python Developer to join our backend engineering team.
+
+Key Responsibilities:
+- Develop RESTful APIs using Flask or Django
+- Work with databases such as PostgreSQL and MongoDB
+- Collaborate with data scientists on machine learning integration
+- Write clean, maintainable, and testable code
+
+Requirements:
+- 3+ years of Python development experience
+- Experience with Flask or Django
+- Knowledge of RESTful API design
+- Familiarity with Git and version control
+- Excellent problem-solving skills

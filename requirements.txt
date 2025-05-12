@@ -1,0 +1,7 @@
+sentence-transformers
+torch
+scikit-learn
+transformers
+pdfplumber
+python-docx
+

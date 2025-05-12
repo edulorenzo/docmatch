@@ -1,0 +1,17 @@
+Jane Smith
+
+Senior Java Developer with a focus on enterprise applications.
+
+Skills:
+- Java, Spring Boot, Hibernate
+- SQL Server, Oracle
+- AWS, Jenkins, Docker
+- Agile/Scrum
+
+Experience:
+- Developed backend for financial platforms using Java
+- Led a team of 5 developers
+- No experience with Python or REST APIs
+
+Education:
+- B.Sc. in Information Systems

@@ -1,0 +1,16 @@
+Jane Smith
+
+Junior Java Developer with a focus on enterprise applications.
+
+Skills:
+- Java, Spring Boot, Hibernate
+- SQL Server, Oracle
+
+
+Experience:
+- Developed backend for financial platforms using Java
+- Led a team of 1 developers
+- No experience with C#
+
+Education:
+- B.Sc. in Medicine
