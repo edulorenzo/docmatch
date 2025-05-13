@@ -4,4 +4,4 @@ scikit-learn
 transformers
 pdfplumber
 python-docx
-
+pymupdf

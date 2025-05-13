@@ -1,0 +1,34 @@
+Name: [Junior Developer Name]
+Contact Information:
+- Email: [Junior Developer Email]
+- Phone: [Junior Developer Phone Number]
+
+Objective:
+Seeking a challenging position as a Junior Software Developer to utilize my skills in software development and contribute to the growth of the company.
+
+Education:
+- Bachelor's degree in Computer Science, [University Name], [Year]
+
+Skills:
+- Proficiency in JavaScript, HTML, CSS
+- Basic knowledge of C# and Python
+- Familiarity with version control systems (e.g., Git)
+- Strong problem-solving skills
+- Ability to work in a team environment
+
+Experience:
+- Internship at [Company Name], [Year]
+  - Assisted in the development of web applications
+  - Collaborated with senior developers to troubleshoot and resolve software defects
+  - Participated in code reviews and team meetings
+
+Projects:
+- [Project Name]
+  - Developed a web application using JavaScript, HTML, and CSS
+  - Implemented responsive design and user authentication
+
+Certifications:
+- [Certification Name], [Year]
+
+References:
+Available upon request.
