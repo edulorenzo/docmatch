@@ -2,10 +2,10 @@ import streamlit as st
 from utils import load_text, calculate_match
 import os
 
-st.title("CV Matcher Web App")
+st.title("Document Matcher Web App")
 
-jd_file = st.file_uploader("Upload Job Description", type=["txt", "pdf", "docx"])
-cv_files = st.file_uploader("Upload CV Files", type=["txt", "pdf", "docx"], accept_multiple_files=True)
+jd_file = st.file_uploader("Upload Document Template", type=["txt", "pdf", "docx"])
+cv_files = st.file_uploader("Upload Submission files", type=["txt", "pdf", "docx"], accept_multiple_files=True)
 
 if st.button("Compare") and jd_file and cv_files:
     jd_path = f"temp_{jd_file.name}"
